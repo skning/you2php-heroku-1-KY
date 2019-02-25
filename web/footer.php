@@ -2,17 +2,7 @@
 <?php require_once "lang.conf.php"; ?>
 
  <footer class="p-2">
-        <p  class="text-white p-1 m-1 h6">
-            Copyright © 2015-<?php echo date('Y');?> All Rights Reserved </br>
-        </p>
-        <p  class="text-white  m-1 p-1 h6">
-
-			<a href="./embed/upgrade.php" target="_blank" class="text-white ml-2"><?php echo $lang['FOOTER_CUPD']?></a>
-			
-		<p class="text-white  m-1 p-1 h6">
-            Language support by <a href="https://github.com/Gaerisson" target="_blank" class="text-white font-italic">GAERISSON</a>
-				</p>
-        </p>
+        
     </footer>
 
 
